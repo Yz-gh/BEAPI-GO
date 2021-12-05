@@ -266,7 +266,6 @@ func (self *BeAPIClient) FileUpload(path string) string{
     "file": file,
   }
   self.Url += "/storage"
-  fmt.Println(self.Url)
   return self.Post(m)
 }
 
