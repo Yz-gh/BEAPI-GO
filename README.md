@@ -10,7 +10,7 @@ import (
     "fmt"
 
     "github.com/tidwall/gjson"
-    "github.com/yz-gh/beapi-go"
+    beapi "github.com/yz-gh/beapi-go"
 )
 
 func main(){
