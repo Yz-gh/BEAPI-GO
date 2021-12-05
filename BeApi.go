@@ -3,7 +3,6 @@ package BEAPI
 import (
   "os"
   "io"
-  "fmt"
   "bytes"
   "strings"
   "mime/multipart"
