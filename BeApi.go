@@ -1,4 +1,4 @@
-package BEAPI
+package beapi
 
 import (
   "os"
